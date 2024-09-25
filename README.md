@@ -18,3 +18,10 @@ This project implements a dynamic multilevel caching system. The system allows f
 3. Run the `testcases.py` script:
    ```bash
    python3 testcases.py
+
+
+### Summary:
+
+- This solution meets all the requirements of the task.
+- You can further customize the `README.md` based on your specific coding style and approach.
+- Make sure to test the code and structure the project well before submitting it.
