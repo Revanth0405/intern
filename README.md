@@ -23,5 +23,4 @@ This project implements a dynamic multilevel caching system. The system allows f
 ### Summary:
 
 - This solution meets all the requirements of the task.
-- You can further customize the `README.md` based on your specific coding style and approach.
-- Make sure to test the code and structure the project well before submitting it.
+- Provided a Dynamic Multilevel Caching System code in python.
